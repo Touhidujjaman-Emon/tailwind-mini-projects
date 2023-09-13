@@ -1,15 +1,13 @@
-# tailwind-mini-projects
-
-image-gallery
+ email-subscribe
 https://touhidujjaman-emon.github.io/tailwind-mini-projects/email-subscribe
 
-pricing-grid
+image-gallery
 https://touhidujjaman-emon.github.io/tailwind-mini-projects/image%20gallery
 
-email-subscribe
+login-modal
 https://touhidujjaman-emon.github.io/tailwind-mini-projects/login%20modal
 
-login-modal
+pricing-grid
 https://touhidujjaman-emon.github.io/tailwind-mini-projects/pricing%20grid
 
 product-modal
